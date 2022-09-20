@@ -1,5 +1,8 @@
 ﻿# Devexpress RichTextEditor Blazor Isolated Example
 
+![image](040747.png)
+![image](040824.png)
+
 ## Prerequisites
 
 Install Devexpress Trial to get the Blazor and Blazor RichEdit Nuget packages. https://www.devexpress.com/Products/Try/
